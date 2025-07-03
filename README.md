@@ -45,13 +45,6 @@ The user interface is clean and intuitive, with tailored designs for students an
 
 ---
 
-## Roles and Responsibilities
-
-- **Sarvani** – Led the UI/UX design, developed the student-side frontend, and managed documentation throughout the project.
-- **Shivani** – Designed and implemented the faculty-side frontend, ensuring alignment with faculty workflows and requirements.
-- **Varshika** – Handled backend integration, developed RESTful APIs, and maintained seamless communication between frontend and backend.
-- **Vignesh** – Managed the MongoDB database, optimized the data schema, and ensured data integrity and security.
-- **Vivek** – Responsible for deployment and testing, configured the production environment, and ensured overall platform stability and responsiveness.
 
 ---
 
